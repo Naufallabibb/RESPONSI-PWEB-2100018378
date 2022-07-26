@@ -98,10 +98,10 @@
 		<img class="demo cursor" src="Slide (5).png" style="width:100%" onclick="currentSlide(1)" alt="">
 		</div>
 		<div class="column">
-		<img class="demo cursor" src="Slide (6).png" style="width:100%" onclick="currentSlide(1)" alt="">
+		<img class="demo cursor" src="Slide (6).png" style="width:100%" onclick="currentSlide(2)" alt="">
 		</div>
 		<div class="column">
-		<img class="demo cursor" src="Slide (4).png" style="width:100%" onclick="currentSlide(1)" alt="">
+		<img class="demo cursor" src="Slide (4).png" style="width:100%" onclick="currentSlide(3)" alt="">
 		</div>
 		<div class="column">
 		<img class="demo cursor" src="Slide (3).png" style="width:100%" onclick="currentSlide(4)" alt="">
